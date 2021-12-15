@@ -19,5 +19,3 @@ source:
     SAGE_STORE_URL: "https://osn.sagecontinuum.org"
     HPWREN_FLAG: "False"
     TEST_FLAG: "False"
-inputs: []
-metadata: {}
