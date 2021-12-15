@@ -7,16 +7,16 @@ license: "MIT license"
 homepage: "https://github.com/iperezx/sage-smoke-detection"
 keywords: "machine learning, convolutional neural network, image classification, smoke, hpwren"
 source:
-    architectures:
-      - linux/amd64
-      - linux/arm64
-    url: "https://github.com/iperezx/sage-smoke-detection"
-    branch: master
-    build_args:
-      BUCKET_ID_MODEL: "719e3f3f-2905-429e-9ef5-20a03436af95"
-      SAGE_STORE_URL: "https://osn.sagecontinuum.org"
-      HPWREN_FLAG: "False"
-      TEST_FLAG: "False"
+  architectures:
+    - linux/amd64
+    - linux/arm64
+  url: "https://github.com/iperezx/sage-smoke-detection"
+  branch: master
+  build_args:
+    BUCKET_ID_MODEL: "719e3f3f-2905-429e-9ef5-20a03436af95"
+    SAGE_STORE_URL: "https://osn.sagecontinuum.org"
+    HPWREN_FLAG: "False"
+    TEST_FLAG: "False"
 inputs: []
 metadata: {}
 funding: 'NSF 1935984'
