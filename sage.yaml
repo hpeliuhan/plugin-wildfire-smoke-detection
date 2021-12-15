@@ -1,5 +1,5 @@
-name: "smoke-detection"
-description: "Smoke Detection"
+name: "wildfire-smoke-detection"
+description: "Wildfire Smoke Detection"
 version : "0.1.0"
 namespace: "iperezx"
 authors: "Ismael Perez <i3perez@sdsc.edu>"
