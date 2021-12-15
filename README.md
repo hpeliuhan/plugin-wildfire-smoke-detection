@@ -1,0 +1,1 @@
+# plugin-wildfire-smoke-detection
